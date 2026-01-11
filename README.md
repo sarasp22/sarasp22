@@ -1,16 +1,55 @@
-## Hi there 👋
+![Header image](https://raw.githubusercontent.com/jayrajroshan/jayrajroshan/master/Assets/GitHub_Header.jpg)
 
-<!--
-**sarasp22/sarasp22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I’m **Sara Spadari**  
+**Junior Full-Stack Web Developer** based in Paris 🇫🇷
 
-Here are some ideas to get you started:
+I’m a career switcher with a strong focus on building clean, maintainable web applications.  
+I enjoy turning complex problems into simple, user-friendly solutions and working in collaborative, product-driven teams.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 Currently looking for **Junior / Entry-Level Web Developer** opportunities.
+
+---
+
+### 🔗 Connect with me
+
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/YOUR-LINKEDIN/)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOURMAIL@gmail.com)](mailto:YOURMAIL@gmail.com)
+
+---
+
+### ⚙️ Tech Stack
+
+**Frontend**
+- HTML5, CSS3, JavaScript (ES6+)
+- Responsive Design, UI/UX fundamentals
+
+**Backend**
+- Ruby on Rails
+- REST APIs, MVC architecture
+
+**Database**
+- PostgreSQL, ActiveRecord
+
+**Tools & Workflow**
+- Git & GitHub
+- Agile / Scrum
+- Deployment (Heroku / similar)
+
+---
+
+### 🌱 What I’m working on
+- Improving code quality and best practices
+- Deepening JavaScript & Rails knowledge
+- Building real-world projects to strengthen my portfolio
+
+---
+
+### 🌍 Languages
+- Italian (native)
+- English (fluent)
+- French (professional)
+- Spanish & Portuguese (conversational)
+
+---
+
+📌 *Check out my repositories below to see what I’m working on.*
