@@ -12,7 +12,7 @@ I enjoy turning complex problems into simple, user-friendly solutions and workin
 
 ### 🔗 Connect with me
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-spadari/]((https://www.linkedin.com/in/sara-spadari/))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sara-spadari/)](https://www.linkedin.com/in/sara-spadari/)
 [![Gmail Badge](https://img.shields.io/badge/-Email-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:YOURMAIL@gmail.com)](mailto:saraspadari22@gmail.com)
 
 ---
