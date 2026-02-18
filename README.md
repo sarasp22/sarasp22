@@ -8,9 +8,6 @@ I enjoy turning complex problems into simple, user-friendly solutions and workin
 
 🔎 Currently looking for **Junior / Entry-Level Web Developer** opportunities.
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarasp22&label=Profile views&color=0e75b6&style=flat" alt="sarasp22" /> </p>
-
 ---
 
 ### 🔗 Connect with me
