@@ -6,7 +6,7 @@
 I’m a career switcher with a strong focus on building clean, maintainable web applications.  
 I enjoy turning complex problems into simple, user-friendly solutions and working in collaborative, product-driven teams.
 
-🔎 Currently looking for **Junior / Entry-Level Web Developer** opportunities.
+🔎 Currently looking for New opportunities.
 
 ---
 
