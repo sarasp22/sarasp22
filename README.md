@@ -1,12 +1,10 @@
-![Aspiring web developer](header.png)
+👋 Hi, I’m Sara Spadari  
 
-👋 Hi, I’m **Sara Spadari**  
-**Junior Full-Stack Web Developer** based in Paris 🇫🇷
+I build user-focused web applications and enjoy solving complex problems with simple, efficient solutions.  
 
-I’m a career switcher with a strong focus on building clean, maintainable web applications.  
-I enjoy turning complex problems into simple, user-friendly solutions and working in collaborative, product-driven teams.
+Coming from a strong customer experience background, I naturally bridge the gap between users and product, bringing clarity, empathy, and execution in fast-paced environments.  
 
-🔎 Currently looking for New opportunities.
+🔎 Currently looking for new opportunity in tech.
 
 ---
 
