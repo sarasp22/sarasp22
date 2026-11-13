@@ -4,7 +4,7 @@ I build user-focused web applications and enjoy solving complex problems with si
 
 Coming from a strong customer experience background, I naturally bridge the gap between users and product, bringing clarity, empathy, and execution in fast-paced environments.  
 
-🚀 Starting my journey as a Web Developer Apprentice (Alternance) while continuing to build side projects.
+🚀 Starting my journey as a Techinical support/Web Developer while continuing to build side projects.
 
 ---
 
