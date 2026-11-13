@@ -36,13 +36,6 @@ Coming from a strong customer experience background, I naturally bridge the gap 
 
 ---
 
-### 🌱 What I’m working on
-- Starting my Web Developer apprenticeship  
-- Deepening React, TypeScript, and Rails best practices
-- Building and scaling real-world web applications
-
----
-
 ### 🌍 Languages
 - Italian (native)
 - English (fluent)
